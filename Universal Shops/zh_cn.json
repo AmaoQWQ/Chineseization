@@ -36,7 +36,7 @@
   "gui.universal_shops.virtual_balance.cost.invalid_input": "无效输入!",
   "gui.universal_shops.virtual_balance.settings.title": "货币设置",
   "gui.universal_shops.virtual_balance.selected_account": "选定的账户: %s",
-  "gui.universal_shops.virtual_balance.balance": "Total Balance: %s",
+  "gui.universal_shops.virtual_balance.balance": "总共的余额: %s",
 
   "text.universal_shops.prefix": "贸易商店",
   "text.universal_shops.not_enough_shop_storage_space": "商店里的空间不够!",
