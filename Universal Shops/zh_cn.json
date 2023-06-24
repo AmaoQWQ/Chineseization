@@ -7,7 +7,7 @@
 
   "gui.universal_shops.shop.price_info": "价格: %s",
   "gui.universal_shops.shop.stock_info": "库存: %s",
-  "gui.universal_shops.shop.currency_storage": "货币存储",
+  "gui.universal_shops.shop.currency_storage": "存储的货币",
   "gui.universal_shops.shop.settings": "商店设置",
   "gui.universal_shops.shop.title": "%s的商店",
   "gui.universal_shops.shop.title.admin": "管理员商店",
