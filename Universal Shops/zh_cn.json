@@ -44,7 +44,7 @@
   "text.universal_shops.not_enough_inventory_space": "没有足够的库存空间!",
   "text.universal_shops.not_enough_stack_space": "你的光标物品已满!",
   "text.universal_shops.not_enough_stock": "店里的存货不够!",
-  "text.universal_shops.stock_missing": 你的库存不存在!",
+  "text.universal_shops.stock_missing": "你的库存不存在!",
   "text.universal_shops.not_set": "还没设置！",
   "text.universal_shops.requires_setup_by_owner": "这家店还没配置!",
   "text.universal_shops.price": "价格: %s",
