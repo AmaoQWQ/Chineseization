@@ -59,8 +59,8 @@
   "pricehandler.universal_shops.items": "物品",
   "pricehandler.universal_shops.virtual_balance": "余额",
 
-  "stockhandler.universal_shops.single_item": "等额物品",
-  "stockhandler.universal_shops.selected_item": "任何堆叠",
+  "stockhandler.universal_shops.single_item": "购买等额物品",
+  "stockhandler.universal_shops.selected_item": "购买任意堆叠",
 
   "hologram_type.universal_shops.full": "显示全部信息",
   "hologram_type.universal_shops.icon": "仅限图标",
