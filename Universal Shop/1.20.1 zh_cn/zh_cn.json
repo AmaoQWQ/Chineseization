@@ -68,6 +68,4 @@
 
   "block.universal_shops.trade_block": "贸易商店",
   "block.universal_shops.admin_trade_block": "管理员贸易商店",
-
-  "gui.universal_shops.modifying_item.change_item.select_item_group.title": "选择物品组"
 }
